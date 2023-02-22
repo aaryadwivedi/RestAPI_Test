@@ -5,8 +5,6 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiDbConnect1502", "WebApiDbConnect1502\WebApiDbConnect1502.csproj", "{CF640363-AF32-4245-99D1-94043C887F0D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIuse1702", "..\APIuse1702\APIuse1702\APIuse1702.csproj", "{68E9C2F7-5827-4D97-B246-26DCFB6BF95A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{CF640363-AF32-4245-99D1-94043C887F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF640363-AF32-4245-99D1-94043C887F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF640363-AF32-4245-99D1-94043C887F0D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{68E9C2F7-5827-4D97-B246-26DCFB6BF95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68E9C2F7-5827-4D97-B246-26DCFB6BF95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68E9C2F7-5827-4D97-B246-26DCFB6BF95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68E9C2F7-5827-4D97-B246-26DCFB6BF95A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
